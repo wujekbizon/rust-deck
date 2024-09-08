@@ -1,5 +1,4 @@
 use rand::{seq::SliceRandom, thread_rng};
-use std::slice;
 
 #[derive(Debug)]
 struct Deck {
